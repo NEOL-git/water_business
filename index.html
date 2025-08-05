@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2024년도 사업별 주요계획 예산 분석 대시보드</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Header Section -->
+    <header class="dashboard-header">
+        <div class="container">
+            <h1 class="header-title">2024년도 사업별 주요계획 예산 분석 대시보드</h1>
+            <p class="header-subtitle">
+                <span class="budget-info">총 예산: <strong id="total-budget">0원</strong></span>
+                <span class="project-info">전체 프로젝트 수: <strong id="total-projects">0개</strong></span>
+            </p>
+        </div>
+    </header>
+
+    <!-- Summary Cards Section -->
+    <section class="summary-section">
+        <div class="container">
+            <div class="summary-grid">
+                <div class="summary-card">
+                    <div class="card-icon">💰</div>
+                    <div class="card-content">
+                        <h3 class="card-title">총 예산</h3>
+                        <p class="card-value" id="summary-budget">0원</p>
+                    </div>
+                </div>
+                <div class="summary-card">
+                    <div class="card-icon">📊</div>
+                    <div class="card-content">
+                        <h3 class="card-title">사업 분야 수</h3>
+                        <p class="card-value" id="summary-categories">0개</p>
+                    </div>
+                </div>
+                <div class="summary-card">
+                    <div class="card-icon">🏗️</div>
+                    <div class="card-content">
+                        <h3 class="card-title">전체 프로젝트 수</h3>
+                        <p class="card-value" id="summary-projects">0개</p>
+                    </div>
+                </div>
+                <div class="summary-card">
+                    <div class="card-icon">📈</div>
+                    <div class="card-content">
+                        <h3 class="card-title">평균 프로젝트 예산</h3>
+                        <p class="card-value" id="summary-avg">0원</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Charts Section -->
+    <section class="charts-section">
+        <div class="container">
+            <div class="charts-grid">
+                <!-- Major Category Distribution -->
+                <div class="chart-container-wrapper">
+                    <h2 class="section-title">주요 분야별 예산 분배</h2>
+                    <div class="chart-container" style="position: relative; height: 400px;">
+                        <canvas id="categoryChart"></canvas>
+                    </div>
+                </div>
+
+                <!-- Top Projects Chart -->
+                <div class="chart-container-wrapper">
+                    <h2 class="section-title">상위 15개 프로젝트 예산</h2>
+                    <div class="chart-container" style="position: relative; height: 600px;">
+                        <canvas id="topProjectsChart"></canvas>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Budget Analysis Section -->
+    <section class="analysis-section">
+        <div class="container">
+            <h2 class="section-title">예산 vs 총 사업비 분석</h2>
+            <div class="chart-container-wrapper">
+                <div class="chart-container" style="position: relative; height: 500px;">
+                    <canvas id="budgetAnalysisChart"></canvas>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Timeline Analysis Section -->
+    <section class="timeline-section">
+        <div class="container">
+            <h2 class="section-title">프로젝트 진행률 분포 분석</h2>
+            <div class="chart-container-wrapper">
+                <div class="chart-container" style="position: relative; height: 400px;">
+                    <canvas id="timelineChart"></canvas>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Category Details Section -->
+    <section class="category-details-section">
+        <div class="container">
+            <h2 class="section-title">분야별 세부 분석</h2>
+            <div class="tabs-container">
+                <div class="tabs-nav" id="category-tabs">
+                    <!-- Tabs will be generated dynamically -->
+                </div>
+                <div class="tabs-content" id="category-content">
+                    <!-- Content will be generated dynamically -->
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Data Table Section -->
+    <section class="table-section">
+        <div class="container">
+            <h2 class="section-title">프로젝트 상세 데이터</h2>
+            <div class="table-controls">
+                <input type="text" id="search-input" class="form-control" placeholder="프로젝트명으로 검색...">
+                <select id="category-filter" class="form-control">
+                    <option value="">전체 분야</option>
+                </select>
+            </div>
+            <div class="table-wrapper">
+                <table class="data-table" id="projects-table">
+                    <thead>
+                        <tr>
+                            <th>프로젝트명</th>
+                            <th>분야</th>
+                            <th>2024년 예산</th>
+                            <th>총 사업비</th>
+                            <th>진행률</th>
+                        </tr>
+                    </thead>
+                    <tbody id="table-body">
+                        <!-- Table rows will be generated dynamically -->
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="dashboard-footer">
+        <div class="container">
+            <p>&copy; 2024 수자원 예산 분석 대시보드. 모든 권리 보유.</p>
+        </div>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>
