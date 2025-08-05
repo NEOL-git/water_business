@@ -1,0 +1,681 @@
+{
+  "major_categories": [
+    {
+      "category": "수자원사업",
+      "budget": 330059,
+      "original": "가. 수자원사업"
+    },
+    {
+      "category": "수도사업",
+      "budget": 1481113,
+      "original": "나. 수도사업"
+    },
+    {
+      "category": "수변사업",
+      "budget": 1067009,
+      "original": "다. 수변사업"
+    },
+    {
+      "category": "재생에너지",
+      "budget": 17111,
+      "original": "라.재생에너지"
+    },
+    {
+      "category": "해외사업",
+      "budget": 20136,
+      "original": "마.해외사업"
+    }
+  ],
+  "top_projects": [
+    {
+      "name": "(1) 신도시",
+      "budget": 543918,
+      "category": "다. 수변사업",
+      "full_name": "(1) 신도시"
+    },
+    {
+      "name": "(13) 지방상수도(현대화)",
+      "budget": 493464,
+      "category": "나. 수도사업",
+      "full_name": "(13) 지방상수도(현대화)"
+    },
+    {
+      "name": "ㅇ 송산그린시티",
+      "budget": 445369,
+      "category": "다. 수변사업",
+      "full_name": "ㅇ 송산그린시티"
+    },
+    {
+      "name": "(3) 친수사업",
+      "budget": 399305,
+      "category": "다. 수변사업",
+      "full_name": "(3) 친수사업"
+    },
+    {
+      "name": "ㅇ 에코델타시티",
+      "budget": 395197,
+      "category": "다. 수변사업",
+      "full_name": "ㅇ 에코델타시티"
+    },
+    {
+      "name": "(9) 기존수도시설 기능개선",
+      "budget": 320000,
+      "category": "나. 수도사업",
+      "full_name": "(9) 기존수도시설 기능개선"
+    },
+    {
+      "name": "(1) 광역상수도건설(안정화)",
+      "budget": 238689,
+      "category": "나. 수도사업",
+      "full_name": "(1) 광역상수도건설(안정화)"
+    },
+    {
+      "name": "(4) 댐 운영 및 관리",
+      "budget": 148948,
+      "category": "가. 수자원사업",
+      "full_name": "(4) 댐 운영 및 관리"
+    },
+    {
+      "name": "(2) 광역상수도건설(확충)",
+      "budget": 138248,
+      "category": "나. 수도사업",
+      "full_name": "(2) 광역상수도건설(확충)"
+    },
+    {
+      "name": "(5) 대산임해 해수담수화",
+      "budget": 113924,
+      "category": "나. 수도사업",
+      "full_name": "(5) 대산임해 해수담수화"
+    },
+    {
+      "name": "ㅇ 시화멀티테크",
+      "budget": 98549,
+      "category": "다. 수변사업",
+      "full_name": "ㅇ 시화멀티테크"
+    },
+    {
+      "name": "ㅇ 고도정수처리시설 도입",
+      "budget": 90290,
+      "category": "나. 수도사업",
+      "full_name": "ㅇ 고도정수처리시설 도입"
+    },
+    {
+      "name": "ㅇ 충남서부권 광역",
+      "budget": 72021,
+      "category": "나. 수도사업",
+      "full_name": "ㅇ 충남서부권 광역"
+    },
+    {
+      "name": "(1) 기존댐 기능개선",
+      "budget": 69347,
+      "category": "가. 수자원사업",
+      "full_name": "(1) 기존댐 기능개선"
+    },
+    {
+      "name": "(12) 지방상수도(시설개선)",
+      "budget": 65097,
+      "category": "나. 수도사업",
+      "full_name": "(12) 지방상수도(시설개선)"
+    },
+    {
+      "name": "(4) 강원 물산업단지",
+      "budget": 63069,
+      "category": "다. 수변사업",
+      "full_name": "(4) 강원 물산업단지"
+    },
+    {
+      "name": "(2) 산업단지",
+      "budget": 60459,
+      "category": "다. 수변사업",
+      "full_name": "(2) 산업단지"
+    },
+    {
+      "name": "(3) 수자원정책 및 홍수관리",
+      "budget": 59947,
+      "category": "가. 수자원사업",
+      "full_name": "(3) 수자원정책 및 홍수관리"
+    },
+    {
+      "name": "(3) 공업용수도건설(안정화)",
+      "budget": 59616,
+      "category": "나. 수도사업",
+      "full_name": "(3) 공업용수도건설(안정화)"
+    },
+    {
+      "name": "ㅇ 구미하이테크",
+      "budget": 56705,
+      "category": "다. 수변사업",
+      "full_name": "ㅇ 구미하이테크"
+    }
+  ],
+  "budget_analysis": [
+    {
+      "name": "(2) 하천관리 후속조치",
+      "budget_2024": 866,
+      "total_cost": 77542,
+      "progress_rate": 1.12,
+      "category": "가. 수자원사업"
+    },
+    {
+      "name": "(4) 댐 운영 및 관리",
+      "budget_2024": 148948,
+      "total_cost": 1696676,
+      "progress_rate": 8.78,
+      "category": "가. 수자원사업"
+    },
+    {
+      "name": "ㅇ 남강댐치수",
+      "budget_2024": 190,
+      "total_cost": 380588,
+      "progress_rate": 0.05,
+      "category": "가. 수자원사업"
+    },
+    {
+      "name": "ㅇ 충주댐치수",
+      "budget_2024": 16117,
+      "total_cost": 294861,
+      "progress_rate": 5.47,
+      "category": "가. 수자원사업"
+    },
+    {
+      "name": "ㅇ 댐안전성강화(Ⅰ)",
+      "budget_2024": 33119,
+      "total_cost": 369352,
+      "progress_rate": 8.97,
+      "category": "가. 수자원사업"
+    },
+    {
+      "name": "ㅇ 댐안전성강화(Ⅱ)",
+      "budget_2024": 37054,
+      "total_cost": 504792,
+      "progress_rate": 7.34,
+      "category": "가. 수자원사업"
+    },
+    {
+      "name": "ㅇ 스마트댐 안전관리",
+      "budget_2024": 51732,
+      "total_cost": 106056,
+      "progress_rate": 48.78,
+      "category": "가. 수자원사업"
+    },
+    {
+      "name": "ㅇ 댐 스마트 수량수질 통합감시",
+      "budget_2024": 4764,
+      "total_cost": 41027,
+      "progress_rate": 11.61,
+      "category": "가. 수자원사업"
+    },
+    {
+      "name": "(1) 광역상수도건설(안정화)",
+      "budget_2024": 238689,
+      "total_cost": 2497755,
+      "progress_rate": 9.56,
+      "category": "나. 수도사업"
+    },
+    {
+      "name": "ㅇ 수도권(Ⅰ) 노후관개량(2차)",
+      "budget_2024": 11276,
+      "total_cost": 54562,
+      "progress_rate": 20.67,
+      "category": "나. 수도사업"
+    },
+    {
+      "name": "ㅇ 수도권(Ⅳ) 복선화",
+      "budget_2024": 10883,
+      "total_cost": 62136,
+      "progress_rate": 17.51,
+      "category": "나. 수도사업"
+    },
+    {
+      "name": "ㅇ 금강광역 노후관개량(2차)",
+      "budget_2024": 1827,
+      "total_cost": 27821,
+      "progress_rate": 6.57,
+      "category": "나. 수도사업"
+    },
+    {
+      "name": "ㅇ 동화댐광역 복선화",
+      "budget_2024": 7629,
+      "total_cost": 42605,
+      "progress_rate": 17.91,
+      "category": "나. 수도사업"
+    },
+    {
+      "name": "ㅇ 포항광역 복선화",
+      "budget_2024": 16012,
+      "total_cost": 60197,
+      "progress_rate": 26.6,
+      "category": "나. 수도사업"
+    },
+    {
+      "name": "ㅇ 고도정수처리시설 도입",
+      "budget_2024": 90290,
+      "total_cost": 477487,
+      "progress_rate": 18.91,
+      "category": "나. 수도사업"
+    },
+    {
+      "name": "ㅇ 남강댐광역(1단계) 노후관개량",
+      "budget_2024": 20670,
+      "total_cost": 217653,
+      "progress_rate": 9.5,
+      "category": "나. 수도사업"
+    },
+    {
+      "name": "ㅇ 대청댐광역 노후관개량",
+      "budget_2024": 23590,
+      "total_cost": 193476,
+      "progress_rate": 12.19,
+      "category": "나. 수도사업"
+    },
+    {
+      "name": "ㅇ 전남남부권광역 복선화",
+      "budget_2024": 22755,
+      "total_cost": 87073,
+      "progress_rate": 26.13,
+      "category": "나. 수도사업"
+    },
+    {
+      "name": "ㅇ 태백 광동계통 노후관개량",
+      "budget_2024": 14929,
+      "total_cost": 87281,
+      "progress_rate": 17.1,
+      "category": "나. 수도사업"
+    },
+    {
+      "name": "ㅇ 경기북부(1차) 복선화",
+      "budget_2024": 7661,
+      "total_cost": 85237,
+      "progress_rate": 8.99,
+      "category": "나. 수도사업"
+    },
+    {
+      "name": "ㅇ 전주권광역 복선화",
+      "budget_2024": 3522,
+      "total_cost": 338124,
+      "progress_rate": 1.04,
+      "category": "나. 수도사업"
+    },
+    {
+      "name": "ㅇ 수도권(Ⅴ)인천평택 복선화",
+      "budget_2024": 1772,
+      "total_cost": 185648,
+      "progress_rate": 0.95,
+      "category": "나. 수도사업"
+    },
+    {
+      "name": "ㅇ 수도권(Ⅲ) 노후관개량",
+      "budget_2024": 3362,
+      "total_cost": 466441,
+      "progress_rate": 0.72,
+      "category": "나. 수도사업"
+    },
+    {
+      "name": "ㅇ 수도권(Ⅳ) 시흥계통 노후관",
+      "budget_2024": 393,
+      "total_cost": 19470,
+      "progress_rate": 2.02,
+      "category": "나. 수도사업"
+    },
+    {
+      "name": "ㅇ 보령댐 당진계통 노후관",
+      "budget_2024": 2118,
+      "total_cost": 92544,
+      "progress_rate": 2.29,
+      "category": "나. 수도사업"
+    },
+    {
+      "name": "(2) 광역상수도건설(확충)",
+      "budget_2024": 138248,
+      "total_cost": 666778,
+      "progress_rate": 20.73,
+      "category": "나. 수도사업"
+    },
+    {
+      "name": "ㅇ 충남서부권 광역",
+      "budget_2024": 72021,
+      "total_cost": 276334,
+      "progress_rate": 26.06,
+      "category": "나. 수도사업"
+    },
+    {
+      "name": "ㅇ 한강하류(4차) 급수체계조정",
+      "budget_2024": 38055,
+      "total_cost": 186513,
+      "progress_rate": 20.4,
+      "category": "나. 수도사업"
+    },
+    {
+      "name": "ㅇ 금강남부(2차) 급수체계조정",
+      "budget_2024": 5977,
+      "total_cost": 28591,
+      "progress_rate": 20.91,
+      "category": "나. 수도사업"
+    },
+    {
+      "name": "ㅇ 남한강(3차) 급수체계조정",
+      "budget_2024": 20498,
+      "total_cost": 83534,
+      "progress_rate": 24.54,
+      "category": "나. 수도사업"
+    },
+    {
+      "name": "ㅇ 금산무주(Ⅱ) 광역",
+      "budget_2024": 1697,
+      "total_cost": 91806,
+      "progress_rate": 1.85,
+      "category": "나. 수도사업"
+    },
+    {
+      "name": "(3) 공업용수도건설(안정화)",
+      "budget_2024": 59616,
+      "total_cost": 514963,
+      "progress_rate": 11.58,
+      "category": "나. 수도사업"
+    },
+    {
+      "name": "ㅇ 울산공업 노후관개량",
+      "budget_2024": 9333,
+      "total_cost": 87452,
+      "progress_rate": 10.67,
+      "category": "나. 수도사업"
+    },
+    {
+      "name": "ㅇ 광양(Ⅰ)공업 노후관개량",
+      "budget_2024": 26732,
+      "total_cost": 171255,
+      "progress_rate": 15.61,
+      "category": "나. 수도사업"
+    },
+    {
+      "name": "ㅇ 광양(Ⅰ)공업 신구계통 노후관개량",
+      "budget_2024": 7258,
+      "total_cost": 78130,
+      "progress_rate": 9.29,
+      "category": "나. 수도사업"
+    },
+    {
+      "name": "ㅇ 군산공업 노후관개량",
+      "budget_2024": 14267,
+      "total_cost": 73073,
+      "progress_rate": 19.52,
+      "category": "나. 수도사업"
+    },
+    {
+      "name": "ㅇ 아산공업(2차) 복선화",
+      "budget_2024": 1355,
+      "total_cost": 55076,
+      "progress_rate": 2.46,
+      "category": "나. 수도사업"
+    },
+    {
+      "name": "ㅇ 울산(Ⅰ) 노후관개량(4차)",
+      "budget_2024": 671,
+      "total_cost": 49977,
+      "progress_rate": 1.34,
+      "category": "나. 수도사업"
+    },
+    {
+      "name": "(4) 공업용수도건설(확충)",
+      "budget_2024": 7022,
+      "total_cost": 57337,
+      "progress_rate": 12.25,
+      "category": "나. 수도사업"
+    },
+    {
+      "name": "ㅇ 국가산단 용수분기",
+      "budget_2024": 6013,
+      "total_cost": 17418,
+      "progress_rate": 34.52,
+      "category": "나. 수도사업"
+    },
+    {
+      "name": "ㅇ 광양 공업가뭄 대비시설",
+      "budget_2024": 1009,
+      "total_cost": 39919,
+      "progress_rate": 2.53,
+      "category": "나. 수도사업"
+    },
+    {
+      "name": "(5) 대산임해 해수담수화",
+      "budget_2024": 113924,
+      "total_cost": 307933,
+      "progress_rate": 37.0,
+      "category": "나. 수도사업"
+    },
+    {
+      "name": "(6) 광역상수도 스마트관리",
+      "budget_2024": 10307,
+      "total_cost": 229897,
+      "progress_rate": 4.48,
+      "category": "나. 수도사업"
+    },
+    {
+      "name": "(7) 탄소중립 프로그램(2차)",
+      "budget_2024": 5320,
+      "total_cost": 5320,
+      "progress_rate": 100.0,
+      "category": "나. 수도사업"
+    },
+    {
+      "name": "(8) 활성탄 수급안정화",
+      "budget_2024": 27003,
+      "total_cost": 28116,
+      "progress_rate": 96.04,
+      "category": "나. 수도사업"
+    },
+    {
+      "name": "(12) 지방상수도(시설개선)",
+      "budget_2024": 65097,
+      "total_cost": 1399904,
+      "progress_rate": 4.65,
+      "category": "나. 수도사업"
+    },
+    {
+      "name": "(13) 지방상수도(현대화)",
+      "budget_2024": 493464,
+      "total_cost": 2558346,
+      "progress_rate": 19.29,
+      "category": "나. 수도사업"
+    },
+    {
+      "name": "(14) 하수도(건설)",
+      "budget_2024": 2423,
+      "total_cost": 12484,
+      "progress_rate": 19.41,
+      "category": "나. 수도사업"
+    },
+    {
+      "name": "(1) 신도시",
+      "budget_2024": 543918,
+      "total_cost": 14686024,
+      "progress_rate": 3.7,
+      "category": "다. 수변사업"
+    },
+    {
+      "name": "ㅇ 시화멀티테크",
+      "budget_2024": 98549,
+      "total_cost": 3605079,
+      "progress_rate": 2.73,
+      "category": "다. 수변사업"
+    },
+    {
+      "name": "ㅇ 송산그린시티",
+      "budget_2024": 445369,
+      "total_cost": 11080945,
+      "progress_rate": 4.02,
+      "category": "다. 수변사업"
+    },
+    {
+      "name": "(2) 산업단지",
+      "budget_2024": 60459,
+      "total_cost": 2753428,
+      "progress_rate": 2.2,
+      "category": "다. 수변사업"
+    },
+    {
+      "name": "ㅇ 구미확장단지",
+      "budget_2024": 3754,
+      "total_cost": 820764,
+      "progress_rate": 0.46,
+      "category": "다. 수변사업"
+    },
+    {
+      "name": "ㅇ 구미하이테크",
+      "budget_2024": 56705,
+      "total_cost": 1932664,
+      "progress_rate": 2.93,
+      "category": "다. 수변사업"
+    },
+    {
+      "name": "(3) 친수사업",
+      "budget_2024": 399305,
+      "total_cost": 6663723,
+      "progress_rate": 5.99,
+      "category": "다. 수변사업"
+    },
+    {
+      "name": "ㅇ 에코델타시티",
+      "budget_2024": 395197,
+      "total_cost": 6605070,
+      "progress_rate": 5.98,
+      "category": "다. 수변사업"
+    },
+    {
+      "name": "ㅇ 나주 노안지구",
+      "budget_2024": 325,
+      "total_cost": 30618,
+      "progress_rate": 1.06,
+      "category": "다. 수변사업"
+    },
+    {
+      "name": "ㅇ 부여 규암지구",
+      "budget_2024": 3783,
+      "total_cost": 28035,
+      "progress_rate": 13.49,
+      "category": "다. 수변사업"
+    },
+    {
+      "name": "(4) 강원 물산업단지",
+      "budget_2024": 63069,
+      "total_cost": 387197,
+      "progress_rate": 16.29,
+      "category": "다. 수변사업"
+    },
+    {
+      "name": "(5) 김포 친환경 스마트재생",
+      "budget_2024": 258,
+      "total_cost": 5752007,
+      "progress_rate": 0.0,
+      "category": "다. 수변사업"
+    }
+  ],
+  "subcategories": {
+    "가. 수자원사업": [
+      {
+        "name": "(1) 기존댐 기능개선",
+        "budget": 69347
+      },
+      {
+        "name": "(2) 하천관리 후속조치",
+        "budget": 866
+      },
+      {
+        "name": "(3) 수자원정책 및 홍수관리",
+        "budget": 59947
+      },
+      {
+        "name": "(4) 댐 운영 및 관리",
+        "budget": 148948
+      },
+      {
+        "name": "(5) 수질 및 수생태계 관리",
+        "budget": 23122
+      },
+      {
+        "name": "(6) 기타 대행사업",
+        "budget": 27829
+      }
+    ],
+    "나. 수도사업": [
+      {
+        "name": "(1) 광역상수도건설(안정화)",
+        "budget": 238689
+      },
+      {
+        "name": "(2) 광역상수도건설(확충)",
+        "budget": 138248
+      },
+      {
+        "name": "(3) 공업용수도건설(안정화)",
+        "budget": 59616
+      },
+      {
+        "name": "(4) 공업용수도건설(확충)",
+        "budget": 7022
+      },
+      {
+        "name": "(5) 대산임해 해수담수화",
+        "budget": 113924
+      },
+      {
+        "name": "(6) 광역상수도 스마트관리",
+        "budget": 10307
+      },
+      {
+        "name": "(7) 탄소중립 프로그램(2차)",
+        "budget": 5320
+      },
+      {
+        "name": "(8) 활성탄 수급안정화",
+        "budget": 27003
+      },
+      {
+        "name": "(9) 기존수도시설 기능개선",
+        "budget": 320000
+      },
+      {
+        "name": "(12) 지방상수도(시설개선)",
+        "budget": 65097
+      },
+      {
+        "name": "(13) 지방상수도(현대화)",
+        "budget": 493464
+      },
+      {
+        "name": "(14) 하수도(건설)",
+        "budget": 2423
+      }
+    ],
+    "다. 수변사업": [
+      {
+        "name": "(1) 신도시",
+        "budget": 543918
+      },
+      {
+        "name": "(2) 산업단지",
+        "budget": 60459
+      },
+      {
+        "name": "(3) 친수사업",
+        "budget": 399305
+      },
+      {
+        "name": "(4) 강원 물산업단지",
+        "budget": 63069
+      },
+      {
+        "name": "(5) 김포 친환경 스마트재생",
+        "budget": 258
+      }
+    ],
+    "라.재생에너지": [],
+    "마.해외사업": []
+  },
+  "summary": {
+    "total_budget": 2915428,
+    "total_projects": 68,
+    "avg_project_budget": 66819,
+    "major_categories_count": 5
+  }
+}
